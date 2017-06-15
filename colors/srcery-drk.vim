@@ -10,7 +10,7 @@ if version > 580
   endif
 endif
 
-let g:colors_name='srcery-drk'
+let g:colors_name='srcery'
 
 if !has('gui_running') && &t_Co != 256
   finish
