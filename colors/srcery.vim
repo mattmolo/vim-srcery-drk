@@ -1,5 +1,6 @@
 " 'srcery.vim' -- Vim color scheme.
 " Maintainer:   Roosta (mail@roosta.sh)
+" Corruptor: Kudabux
 " Description:  Colorscheme that focus ease of use and clearly defined contrasting colors with a slightly earthy tone.
 
 if version > 580
@@ -9,7 +10,7 @@ if version > 580
   endif
 endif
 
-let g:colors_name='srcery'
+let g:colors_name='srcery-drk'
 
 if !has('gui_running') && &t_Co != 256
   finish
