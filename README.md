@@ -15,7 +15,11 @@
      `--`--------`|==|,|   | -|/==/ -   ,| |==|- ,   .'|==| _ , \             
                   |==|  '='   /==/-  /\ - \|==|_  . ,'./==/  '\  |            
                   |==|-,   _`/\==\ _.\=\.-'/==/  /\ ,  )==\ /\=\.'            
-                  `-.`.____.'  `--`        `--`-`--`--' `--`                  
+                  `-.`.____.'  `--`        `--`-`--`--' `--`         
+        
+        
+![](https://media.giphy.com/media/l1BgS2bx8dDhjZUUE/giphy.gif)
+
 
 Forked from Roosta's [SRCERY](https://github.com/roosta/vim-srcery) because I'm petty and wanted a darker looking vertical split. All credit goes to them and their beautiful colorscheme <3.
 
