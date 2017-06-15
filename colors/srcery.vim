@@ -213,7 +213,7 @@ call s:HL('IncSearch', s:black, s:yellow)
 call s:HL('Underlined', s:blue, s:none, s:underline)
 
 call s:HL('StatusLine',   s:white, s:bright_black)
-" call s:HL('StatusLineNC', s:white, s:bright_black)
+call s:HL('StatusLineNC', s:white, s:bright_black, s:underline)
 
 " The column separating vertically split windows
 call s:HL('VertSplit', s:bright_black, s:bright_black)
